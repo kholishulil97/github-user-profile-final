@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name_users">Nama User</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string name="search_hint">Masukkan nama</string>
+    <string name="search">Search...</string>
+
+    <string name="tab_repository">Repository</string>
+    <string name="tab_follower">Follower</string>
+    <string name="tab_following">Following</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_favorite">Favorite</string>
+
+    <string name="add_favorite">Tambah ke Favorite</string>
+    <string name="delete_favorite">Hapus dari Favorite</string>
+    <string name="added">Berhasil menambahkan ke Favorite</string>
+    <string name="deleted">Berhasil menghapus dari Favorite</string>
+</resources>
